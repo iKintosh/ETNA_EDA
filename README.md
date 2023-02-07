@@ -2,7 +2,13 @@
 This project focuses on analyzing ride sharing app data to predict locations of high value.
 
 ## Results
-Findings of this EDA could be found in [eda_notebook](https://github.com/iKintosh/ETNA_EDA/blob/master/notebook/eda_notebook.ipynb).
+Findings of this EDA could be found in [eda_notebook](https://github.com/iKintosh/ETNA_EDA/blob/master/notebook/eda_notebook.ipynb). And as nbviewer notebook.
+  
+<a href="https://nbviewer.org/github/iKintosh/ETNA_EDA/blob/master/notebook/eda_notebook.ipynb" 
+   target="_parent">
+   <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" 
+      width="109" height="20">
+</a>
 
 ## How to install
 
