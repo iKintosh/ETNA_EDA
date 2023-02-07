@@ -4,8 +4,6 @@ This project focuses on analyzing ride sharing app data to predict locations of 
 ## Results
 Findings of this EDA could be found in [eda_notebook](https://github.com/iKintosh/ETNA_EDA/blob/master/notebook/eda_notebook.ipynb).
 
-The results are also stored as HTML file for the ease of sharing.
-
 ## How to install
 
 If you want to play with the data or the report you may install and set up the environment.
